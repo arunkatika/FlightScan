@@ -1,4 +1,4 @@
-#FlightScan ## Google Flights Clone: Django + React
+# FlightScan(Google Flights Clone): Django + React
 
 This is a full-stack project that creates a responsive flight search application similar to Google Flights. The project uses:
 
